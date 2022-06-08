@@ -1,0 +1,42 @@
+html{
+    margin: 0 auto;
+    width: 800px;
+    box-sizing: border-box;
+    text-align: center;
+    background: url(/rsschool-cv/photo/wall.jpg);
+}
+*,::before,*::after{
+    box-sizing: inherit;
+}
+.header{
+     height: 100vh;
+     border: 1px solid red;
+     background-color:rgba(255, 255, 255,0.2) ;
+    
+     display: inline-block;
+     width: 45%;
+     vertical-align: top;
+     
+}
+.photo{
+    
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+    float: left;
+    border-radius: 2%;
+ 
+}
+.main{
+    height: 100vh;
+    border: 1px solid blue;
+    background-color: #fff;
+    display: inline-block;
+    width: 45%;
+    vertical-align:top;
+}
+.footer{
+    margin: 0 auto;
+    width: 1000px;
+    border: 1px solid orange
+}
