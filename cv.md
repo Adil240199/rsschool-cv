@@ -23,10 +23,18 @@
 
 * **My skills:**
 
->Basic knowledge of html, css and java script
+> Basic knowledge of html, css and java script
+
+
 > Made up a one-page layout from figma from video
+
+
 > Solved initial problems in sololearn and codewars
+
+
 > Basic knowledge of git and github
+
+
 > Development tools: vs code and sublime text
 
  5. Code examples:
