@@ -1,17 +1,15 @@
-![Пример изображения](./photosmall.jpg)
+# Resume
+
+![My photo](./photosmall.jpg)
 
 # Adilzhan
 
-### Contact Information
+## Contact Information
 
-**Adress:**
-Kazakhstan ,Almaty
-**Number:**
-+7 707 615 53 09
-**Email**
-Adik.muhametov@gmail.com
-**Discort**
-Adil(Adil240199)Kz
+**Address:** Kazakhstan, Almaty
+**Number:** +7 707 615 53 09
+**Email:** Adik.muhametov@gmail.com
+**Discord:** Adil(Adil240199)Kz
 
 ---
 
@@ -22,7 +20,7 @@ My journey began with a focus on HTML and CSS, where I delved into the basics of
 After establishing a foundation, I ventured into JavaScript,
 covering its syntax, methods, function, data types, and other fundamental concepts.
 Currently, I am actively engaged in mastering React and Redux, and I have acquired proficiency in Redux Toolkit and Context API.
-To showcase my progress and practical skills, I've worked on several projects that are available on my GitHub account
+To showcase my progress and practical skills, I've worked on several projects that are available on my  [GitHub account](https://github.com/Adil240199).
 
 ---
 
@@ -35,7 +33,8 @@ To showcase my progress and practical skills, I've worked on several projects th
 
 **CODE**
 
-```function duplicateEncode(word) {
+```javascript
+function duplicateEncode(word) {
   return word
     .toLowerCase()
     .split("")
@@ -46,10 +45,10 @@ To showcase my progress and practical skills, I've worked on several projects th
 }
 ```
 
-```function highAndLow(numbers){
-numbers = numbers.split(" ");
-return Math.max.apply(null, numbers) + " " + Math.min.apply(null, numbers)
-
+```javascript
+function highAndLow(numbers) {
+  numbers = numbers.split(" ");
+  return Math.max.apply(null, numbers) + " " + Math.min.apply(null, numbers);
 }
 ```
 
