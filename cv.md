@@ -46,7 +46,27 @@ To showcase my progress and practical skills, I've worked on several projects th
 }
 ```
 
+```function highAndLow(numbers){
+numbers = numbers.split(" ");
+return Math.max.apply(null, numbers) + " " + Math.min.apply(null, numbers)
 
+}
+```
 
+---
 
+**Work Experience**
+[Project Travel](https://github.com/Adil240199/Works/tree/gh-pages/travel)
+[Project English-School](https://github.com/Adil240199/Works/tree/gh-pages/english-school)
+[Project Momentum](https://github.com/Adil240199/Works/tree/gh-pages/momentum) "Used only JavaScript"
+[Project Online-Zoo](https://github.com/Adil240199/Works/tree/gh-pages/online-zoo)
 
+---
+
+**Education**
+I have a secondary education and took the first stage at RSS and also took courses on YouTube react
+
+---
+
+**English Language**
+level of English proficiency at pre-intermediate
